@@ -1,0 +1,24 @@
+G:\route\08 APIS\E-Commerce\E-commerce.core\bin\Debug\net8.0\E-Commerce.core.deps.json
+G:\route\08 APIS\E-Commerce\E-commerce.core\bin\Debug\net8.0\E-Commerce.core.dll
+G:\route\08 APIS\E-Commerce\E-commerce.core\bin\Debug\net8.0\E-Commerce.core.pdb
+G:\route\08 APIS\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.GeneratedMSBuildEditorConfig.editorconfig
+G:\route\08 APIS\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.AssemblyInfoInputs.cache
+G:\route\08 APIS\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.AssemblyInfo.cs
+G:\route\08 APIS\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.csproj.CoreCompileInputs.cache
+G:\route\08 APIS\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.dll
+G:\route\08 APIS\E-Commerce\E-commerce.core\obj\Debug\net8.0\refint\E-Commerce.core.dll
+G:\route\08 APIS\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.pdb
+G:\route\08 APIS\E-Commerce\E-commerce.core\obj\Debug\net8.0\ref\E-Commerce.core.dll
+G:\route\08 APIS\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.csproj.AssemblyReference.cache
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\bin\Debug\net8.0\E-Commerce.core.deps.json
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\bin\Debug\net8.0\E-Commerce.core.dll
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\bin\Debug\net8.0\E-Commerce.core.pdb
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.csproj.AssemblyReference.cache
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.AssemblyInfoInputs.cache
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.AssemblyInfo.cs
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.csproj.CoreCompileInputs.cache
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.dll
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\obj\Debug\net8.0\refint\E-Commerce.core.dll
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\obj\Debug\net8.0\E-Commerce.core.pdb
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-commerce.core\obj\Debug\net8.0\ref\E-Commerce.core.dll

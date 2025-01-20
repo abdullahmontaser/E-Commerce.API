@@ -1,0 +1,34 @@
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Services.deps.json
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Services.dll
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Services.pdb
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.core.dll
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Repository.dll
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Repository.pdb
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.core.pdb
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.csproj.AssemblyReference.cache
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.AssemblyInfoInputs.cache
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.AssemblyInfo.cs
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.csproj.CoreCompileInputs.cache
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commer.FC7EA7E1.Up2Date
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.dll
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\refint\E-Commerce.Services.dll
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.pdb
+G:\route\08 APIS\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\ref\E-Commerce.Services.dll
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Services.deps.json
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Services.dll
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Services.pdb
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.core.dll
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Repository.dll
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Repository.pdb
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.core.pdb
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.csproj.AssemblyReference.cache
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.AssemblyInfoInputs.cache
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.AssemblyInfo.cs
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.csproj.CoreCompileInputs.cache
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commer.FC7EA7E1.Up2Date
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.dll
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\refint\E-Commerce.Services.dll
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.pdb
+G:\ASP.Net\Aliaa Tarek\08 API\E-Commerce\E-Commerce.Services\obj\Debug\net8.0\ref\E-Commerce.Services.dll
